@@ -1,0 +1,14 @@
+Steps:
+
+1) Clone the repository
+https://github.com/snehamaganahalli/Articulation_Point.git
+
+2) Compile
+make
+
+3) Execute
+./exe
+
+4) Look at the "steps_articulation_point" image to give input.
+
+5) Look at the PDF for the detailed understanding.
