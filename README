@@ -1,7 +1,7 @@
 Steps:
 
 1) Clone the repository
-https://github.com/snehamaganahalli/Articulation_Point.git
+git clone https://github.com/snehamaganahalli/Articulation_Point.git
 
 2) Compile
 make
